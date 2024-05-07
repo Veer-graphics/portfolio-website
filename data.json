@@ -1,0 +1,144 @@
+{
+    "testimonials" : [
+        {
+            "image": "about/apear-logo.svg",
+            "review": "Ik heb Vera leren kennen als een ambitieuze en leergierige stagiaire. Ze pakt taken snel op en is zeer nauwkeurig in het werk dat ze oplevert. Daarnaast beschikt ze over een professionele werkhouding en is ze vaak als eerste van het team al op kantoor te vinden. Ze is leuk in de omgang en vind makkelijk haar draai in ons (kleine) team. Wij zijn blij met het werk dat Vera gedurende haar stageperiode voor ons heeft verricht en sluiten dan ook een vorm van dienstverband in de toekomst niet uit.",
+            "naam": "Hans Adema",
+            "functie": "Founder van aPear"
+        },
+        {
+            "image": "about/beforesales-logo.svg",
+            "review": "Vera is een leergierige dame met een stille passie voor designen. Dit uit zich in geconcentreerd en gestructureerd werken, waarna er een mooi eindresultaat uit komt. Met de juiste informatie komt zij tot verrassende ontwerpen zoals die voor de Padelbaan, wat toch een uitdagend kleurenpallet heeft. Ook heeft zij het logo van Evolve from scratch ontwikkelt, en staat er nu een logo met het juiste gevoel voor wat wij willen overbrengen. Vera kan goed samenwerken en is altijd vriendelijk en collegiaal. ",
+            "naam": "Anoek De Lange",
+            "functie": "Projectmanager bij Before Sales"
+        },
+        {
+            "image": "about/intermix-logo.png",
+            "review": "Vera is een goede luisteraar en levert werk waar je naar vraagt! Flexibel, zelfstandig, maar weet ook de juiste vragen te stellen! Erg creatief en een aanrader voor animaties (maar eigenlijk ook al het andere werk)!",
+            "naam": "Daphne Visser",
+            "functie": "Designer bij Intermix"
+        },
+        {
+            "image": "about/socialimpulz-logo.png",
+            "review": "Vera is een hardwerkende art designer. Ze werkt vol passie, planmatig en stopt pas echt als de klant en zij tevreden is. Ze is eerlijk en transparant en voorziet jou van een goed advies. Haar creaties zijn supermooi! Wij van Social Impulz raden haar zeker aan!",
+            "naam": "Jaenela Dossett",
+            "functie": "Maatschappelijk werker bij Social Impulz"
+        }
+    ],
+    "projects" : [
+        {
+            "image": "projects/pensioencadeau/pensioencadeau.jpg",
+            "id": 1,
+            "name": "Pensioencadeau",
+            "description": "Voor Pensioencadeau heb ik een volledige huisstijl ontworpen, inclusief een webshop.",
+            "categories": ["webdesign", "branding"],
+            "detailDescription" : "Pensioencadeau is een bedrijf wat cadeaupakketten gaat verkopen aan mensen die hun dierbare of collega willen verrassen met een persoonlijk pensioencadeau pakket. Voor dit opkomende bedrijf heb ik een volledige huisstijl ontworpen. Denk hierbij bijvoorbeeld aan het logo, mockups van dozen en een stylesheet.",
+            "gebruikteProgrammas" : ["Figma","Adobe Photoshop", "Adobe Illustrator"],
+            "slideImages" : [
+                "projects/pensioencadeau/desktop-mockup.png", 
+                "projects/pensioencadeau/mobile-mockup.png",
+                "projects/pensioencadeau/logo.png",
+                "projects/pensioencadeau/box-mockup.png"
+            ],
+            "desktopLink": "https://www.figma.com/proto/qutHPhStZZ8gpLS1N8IYNM/Proeve?page-id=714%3A288&type=design&node-id=721-262&viewport=-1773%2C609%2C0.13&t=AqqDe2k3XHgkmJRG-1&scaling=scale-down-width&starting-point-node-id=721%3A262&mode=design",
+            "mobileLink": "https://www.figma.com/proto/qutHPhStZZ8gpLS1N8IYNM/Proeve?page-id=714%3A288&type=design&node-id=725-2010&viewport=-18883%2C1210%2C0.48&t=dyFb4uebflNX32HJ-1&scaling=scale-down-width&starting-point-node-id=725%3A2010&show-proto-sidebar=1&mode=design",
+            "desktopBtn": "Desktop uitwerking",
+            "mobileBtn": "Mobiele uitwerking"
+        },
+        {
+            "image": "projects/drechthub/drechtHUB.jpg",
+            "id": 2,
+            "name": "DrechtHUB",
+            "description": "Voor DrechtHUB heb ik een stylesheet, logo en onepager ontworpen.",
+            "categories": ["webdesign", "branding"],
+            "detailDescription" : "Voor deze schoolopdracht mochten we voor een opkomend bedrijf genaamd DrechtHUB een volledige huisstijl ontwikkelen, inclusief een onepager. DrechtHUB wordt een bedrijf wat met elektrische busjes pakketjes gaat rondbrengen in emissie-vrije zones.",
+            "gebruikteProgrammas" : ["Figma", "Adobe Photoshop", "Adobe Illustrator"],
+            "slideImages" : [
+                "projects/drechthub/desktop-mockup.png",
+                "projects/drechthub/mobile-mockup.png",
+                "projects/drechthub/logo.png",
+                "projects/drechthub/van-mockup.png"
+            ],
+            "desktopLink": "https://www.figma.com/proto/pZ1eeuOvSTWoGCt0twxYw9/DrechtHUB?page-id=1%3A68&type=design&node-id=31-85&viewport=-630%2C349%2C0.3&t=70eGCa3AL5N9s4E9-1&scaling=scale-down-width&starting-point-node-id=31%3A85&show-proto-sidebar=1&mode=design",
+            "mobileLink": "https://www.figma.com/proto/pZ1eeuOvSTWoGCt0twxYw9/DrechtHUB?page-id=1%3A68&type=design&node-id=174-276&viewport=-630%2C349%2C0.3&t=bt26wnuDJqhxDkEH-1&scaling=min-zoom&starting-point-node-id=174%3A276&show-proto-sidebar=1&mode=design",
+            "desktopBtn": "Desktop uitwerking",
+            "mobileBtn": "Mobiele uitwerking"
+        },
+        {
+            "image": "projects/phantasiahub/Phantasiahub.jpg",
+            "id": 3,
+            "name": "PhantasiaHUB",
+            "description": "Om meer te oefenen met het designen van UI design heb ik een fictief UI design van Phantasialand ontworpen.",
+            "categories": ["app-en-uidesign", "branding"],
+            "detailDescription" : "Dit project heb ik zelf verzonnen om mezelf meer uit te dagen om een keer een User Interface design te designen. Daarom heb ik zelf voor Phantasialand een platform ontworpen waar je favoriete attracties kan toevoegen en je eigen gemaakte foto's kan uploaden, zodat deze ultieme momenten voor altijd bij je blijven." ,
+            "gebruikteProgrammas" : ["Adobe XD"],
+            "slideImages" : [
+                "projects/phantasiahub/desktop-mockup.png",
+                "projects/phantasiahub/logo.png"
+            ],
+            "desktopLink": "https://xd.adobe.com/view/9af7c780-d87e-48e2-977b-12c8b41f1688-cfa4/?fullscreen",
+            "desktopBtn": "Desktop uitwerking"
+        },
+        {
+            "image": "projects/fylo/Fylo.jpg",
+            "id": 4,
+            "name": "Fylo landingspagina",
+            "description": "Ik heb een onepager van Fylo gebouwd, als oefening om beter te worden in frontend development.",
+            "categories": ["webdesign"],
+            "detailDescription" : "Om mezelf nieuwe dingen aan te leren heb ik een opdracht van Frontend Mentor gemaakt. Frontend Mentor is een platform waar frontend developers worden uitgedaagd om allerlei dingen na te bouwen met HTML, CSS en Javascript. Ik heb de Fylo opdracht van Frontend Mentor nagebouwd.",
+            "gebruikteProgrammas" : ["Visual Studio Code"],
+            "slideImages" : [
+                "projects/fylo/desktop-mockup.png",
+                "projects/fylo/mobile-mockup.png"
+            ],
+            "frontendLink": "https://veer-graphics.github.io/Fylo-landing-page/",
+            "frontendBtn": "Uitwerking"
+        },
+        {
+            "image": "projects/frisdrank-rebranding/rebranding-frisdrank.jpg",
+            "id": 5,
+            "name": "Frisdrank rebranding",
+            "description": "Van school kregen we de opdracht om een frisdrank merk te rebranden. ",
+            "categories": ["app-en-uidesign", "branding"],
+            "detailDescription": "Van school kregen we de opdracht om de huisstijl van een frisdrank merk te rebranden. Denk hierbij dus bijvoorbeeld aan een etiket en een app. Later heb ik de app opnieuw vormgegeven, aangezien ik me wilde uitdagen om me te specialiseren in het vormgeven van apps.",
+            "gebruikteProgrammas" : ["Adobe XD", "Adobe Photoshop", "Adobe Illustrator"],
+            "slideImages" : [
+                "projects/frisdrank-rebranding/mobile-mockup.png",
+                "projects/frisdrank-rebranding/logo.png",
+                "projects/frisdrank-rebranding/can-mockup.png"
+            ],
+            "mobileLink": "https://xd.adobe.com/view/c78546a0-593a-4dc1-bf06-1746a25c0404-92d6/",
+            "mobileBtn": "Mobiele uitwerking"
+        },
+        {
+            "image": "projects/wandelcoaching/Wandelcoaching.jpg",
+            "id": 6,
+            "name": "SAM's Wandelcoaching",
+            "description": "Voor het bedrijf SAM Wandelcoaching heb ik in Webflow de homepagina ontworpen/gebouwd.",
+            "categories": ["webdesign"],
+            "detailDescription": "Tijdens m'n stage kreeg ik de opdracht om in Webflow de homepagina voor een wandelcoach vorm te geven.",
+            "gebruikteProgrammas" : ["Webflow"],
+            "slideImages" : [
+                "projects/wandelcoaching/desktop-mockup.png"
+            ],
+            "desktopLink": "https://samcoaching.webflow.io/",
+            "desktopBtn": "Desktop uitwerking"
+        },
+        {
+            "image": "projects/iwillmanage/Iwillmanage.jpg",
+            "name": "I'll Manage!",
+            "id": 7,
+            "description": "Voor het fictieve coachingbureau I'll Manage! heb ik een app voor de cliënt en voor de coaches ontworpen. Ook heb ik een stylesheet en een abri poster ontworpen.",
+            "categories": ["app-en-uidesign", "branding"], 
+            "detailDescription" : "Van school kregen we de opdracht om een appdesign inclusief een logo te maken voor een fictief coachingbureau genaamd I'll Manage! I'll Manage! is een coachingbureau wat jongeren wilt stimuleren om over hun faalangst heen te komen. Naast het logo en het appdesign heb ik ook een stylesheet en een abri poster gemaakt.",
+            "gebruikteProgrammas" : ["Figma","Adobe Photoshop", "Adobe Illustrator", "Adobe Indesign"],
+            "slideImages" : [
+                "projects/iwillmanage/mobile-mockup.png",
+                "projects/iwillmanage/logo.png",
+                "projects/iwillmanage/poster-mockup.png"
+            ],
+            "mobileLink": "https://www.figma.com/proto/cPXiYpxifwQoSmpunXf0Fu/I'll-Manage!?page-id=1%3A4&type=design&node-id=101-39&viewport=178%2C-481%2C0.46&t=yNR6kUOQ7RPRY1El-1&scaling=contain&starting-point-node-id=80%3A38&mode=design",
+            "mobileBtn": "Mobiele uitwerking"
+        }
+    ]
+}
