@@ -1198,6 +1198,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     .tab-buttons {
         display: flex;
         flex-direction: column;
+        width: 100%;
     }
     .tab-buttons li {
         width: 100%;
@@ -1220,7 +1221,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
         height: 200px;
     }
     .project-content {
-        min-height: 300px;
+        min-height: 250px;
     }
     .project-name {
         font-size: 1.7rem;
