@@ -226,7 +226,7 @@ body {
     font-family: 'Archivo', sans-serif;
     cursor: none;
     position: relative;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 /* HOME -------------------------------------------------------------------------------------------------- */
