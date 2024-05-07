@@ -1196,8 +1196,8 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
         max-width: 80%;
     }
     .tab-buttons {
-        display: grid;
-        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: column;
     }
     .tab-btn {
         width: 100%;
@@ -1217,7 +1217,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
         height: 200px;
     }
     .project-content {
-        height: 300px;
+        min-height: 300px;
     }
     .project-name {
         font-size: 1.7rem;
