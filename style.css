@@ -1,3 +1,7 @@
+/* HTML ------------------------------------------------ */
+html {
+    overflow-x: hidden;
+}
 /* UNIVERSAL ------------------------------------------------ */
 * {
     box-sizing: border-box;
@@ -226,7 +230,7 @@ body {
     font-family: 'Archivo', sans-serif;
     cursor: none;
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 /* HOME -------------------------------------------------------------------------------------------------- */
