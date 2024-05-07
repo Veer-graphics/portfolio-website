@@ -1330,4 +1330,8 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
         text-align: left;
     }
 
+    .cursor-dot {
+    display: none;
+    }
+
 }
