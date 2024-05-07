@@ -1264,7 +1264,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
         text-align: center;
     }
     .gradient-title {
-        font-size: 2.5rem;
+        font-size: 1.2rem;
         margin-bottom: 0;
     }
     .overlay-text p {
@@ -1273,6 +1273,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     }
     .linkbtns {
       flex-direction: column;
+        align-items: center;
     }
     .overlay .margin-bottom-large {
         margin-bottom: 3rem;
@@ -1280,6 +1281,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     .linkBtn {
         font-size: 0.8rem;
         /* padding: 1rem 0.5rem; */
+        width: 100%;
     }
     .linkbtns {
         display: flex;
