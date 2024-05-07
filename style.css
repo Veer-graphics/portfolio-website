@@ -1199,6 +1199,9 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
         display: flex;
         flex-direction: column;
     }
+    .tab-buttons li {
+        width: 100%;
+    }
     .tab-btn {
         width: 100%;
         font-size: 1rem;  
