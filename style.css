@@ -104,7 +104,6 @@ h1,h2,h3,h4,h5,h6 {
 /* ALL BUTTONS ------------------------------------------------ */
 
 button {
-    cursor: pointer;
     transition: .3s ease all;
     border: none;
     outline: none;
@@ -112,7 +111,6 @@ button {
 
 /* ALL LINKS ------------------------------------------------ */
 a {
-    cursor: pointer;
     transition: .3s ease all;
 }
 
