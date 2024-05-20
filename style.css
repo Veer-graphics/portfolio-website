@@ -107,6 +107,7 @@ button {
     transition: .3s ease all;
     border: none;
     outline: none;
+    font-family: 'Clash Display', sans-serif;
 }
 
 /* ALL LINKS ------------------------------------------------ */
@@ -322,6 +323,7 @@ body {
     padding-right: 2.5rem;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
 }
 
 .nav-list-item {
@@ -568,6 +570,7 @@ body {
 .about-inner-section {
     padding: 2rem;
     backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(50px);
     background: linear-gradient(to bottom, var(--dark-blue), var(--dark-blue-0));
     border-radius: 20px;
     box-shadow: inset 0px 0px 10px 0 var(--electric-blue-2);
@@ -606,6 +609,7 @@ body {
     border-radius: 20px;
     padding: 2rem;
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -683,6 +687,7 @@ body {
     overflow: hidden;
     padding: 1.5rem;
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     max-width: 350px;
 }
 
@@ -733,6 +738,7 @@ body {
     left: 0;
     background: linear-gradient(to top, var(--off-black), var(--off-black-50));
     backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
     display: none;
     opacity: 0;
     transition: opacity 0.5s ease;
@@ -825,6 +831,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 .banner-inner-section {
     padding: 2rem;
     backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
     background: linear-gradient(to bottom, var(--dark-blue), var(--dark-blue-0));
     border-radius: 20px;
     box-shadow: inset 0px 0px 10px 0 var(--electric-blue-2);
@@ -835,6 +842,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
     background-color: var(--off-white-1);
     padding: 1.5rem;
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     max-width: 400px;
 }
 
